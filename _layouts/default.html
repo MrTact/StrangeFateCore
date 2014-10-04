@@ -2,16 +2,16 @@
 
 	{% include header.html %}
 
+	
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+		<section id="main_content" class="inner">
+		{% include nav.html %}
 
-      {{ content }}
+		{{ content }}
 
-	  {% include nav.html %}
-	  
-      </section>
-    </div>
+		</section>
+	</div>
 
 
     {% include footer.html %}
