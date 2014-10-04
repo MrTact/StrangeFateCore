@@ -1,0 +1,12 @@
+# Site settings
+title: Strange Fate Core
+email: mrtact@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A project to convert the Strange Fate SRD to make it compatible with Fate Core
+baseurl: "/StrangeFateCore" # the subpath of your site, e.g. /blog/
+url: "http://mrtact.github.io" # the base hostname & protocol for your site
+twitter_username: mrtact
+github_username:  mrtact
+
+# Build settings
+markdown: kramdown
