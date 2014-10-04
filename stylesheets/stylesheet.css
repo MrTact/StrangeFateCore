@@ -366,7 +366,15 @@ Full-Width Styles
   background: #212121;
 }
 
-
+#nav-primary {
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: column wrap;
+    -webkit-flex-flow: column wrap;
+    align-items: flex-start;
+    -webkit-align-items: flex-start;
+    padding: 0 8px;
+}
 
 /*******************************************************************************
 Small Device Styles
