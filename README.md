@@ -8,3 +8,5 @@ OriginalSRD contains thecosmicgoose's original PDF, patched together from the Ke
 UpdatedSRD is the Strange Fate SRD, cleaned up and reformatted using Markdown, plus the 1.0 proof version of the PDF generated from this, which was used as the baseline for the Strange Fate Core project proper.
 
 CoreSource contains the files for the work-in-progress update to make Strange Fate work with Fate Core.
+
+For more details about plans and progress of this project, [see the little site set up for just that purpose](http://mrtact.github.io/StrangeFateCore/) over on Github Pages.
