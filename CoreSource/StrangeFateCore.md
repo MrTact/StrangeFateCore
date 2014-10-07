@@ -34,7 +34,7 @@ Each has a full description in the Archetypes chapter. Your choice of Archetype 
 
 ## Buy Skills
 
-You start with 30 skill points. Common skills cost a number of points equal to their rating, so a Fair (+2) skill costs 2 points. As the name implies, Common skills are typical areas of training or experience for the average citizen, such as riding a horse, scouring a crime scene for clues, or throwing a punch. Any unrated Common skills are treated as if their rating were Mediocre (+0).
+You start with 30 skill points. Common skills cost a number of points equal to their rating, so a Fair (+2) skill costs 2 points. Common skills are any skills that are available by default for the game's setting. They are typical areas of training or experience for the average citizen, such as riding a horse, scouring a crime scene for clues, or throwing a punch. Any unrated Common skills are treated as if their rating were Mediocre (+0).
 
 Unique and Strange skills -- skills you design from the ground up -- often cost quite a bit more than Common skills.
 
@@ -658,8 +658,7 @@ If the skill is in the Extraordinary Tier or above, it can be used, along with a
 **Ascendant Tier:** The player may spend a Fate Point once per session to give the character a theme-appropriate work (a piece of equipment with three improvements) or add two improvements to an existing piece of Equipment that last for the rest of the session.
 
 > Attention, Control Freaks
-> You may notice there's no trapping called Control or Manipulate Elements or anything like that. So how do you make your fire-control guy? It's simple: Most "control" functions are just messing with aspects, and any skill can be used for an aspect declaration or maneuver. Want to create fire? Use your Fire Control skill to declare an aspect of "On Fire." Want to make it bigger? An aspect maneuver will turn "On Fire" into "Raging Inferno." Want to put it out? Another aspect maneuver will remove it altogether. Mind control works similarly; see the Psychic
-Extra description for details.
+> You may notice there's no trapping called Control or Manipulate Elements or anything like that. So how do you make your fire-control guy? It's simple: Most "control" functions are just messing with aspects, and any skill can be used for an aspect declaration or maneuver. Want to create fire? Use your Fire Control skill to declare an aspect of "On Fire." Want to make it bigger? An aspect maneuver will turn "On Fire" into "Raging Inferno." Want to put it out? Another aspect maneuver will remove it altogether. Mind control works similarly; see the Psychic Extra description for details.
 
 ### DEXTERITY+
 A skill with the Dexterity trapping reflects the character's ability to pick pockets, palm small objects, perform magic tricks, and do nearly anything else that requires fine manual control. This makes Dexterity a pretty broad trapping, but enough of its applications are similar that it's just easier to collect them all under the same umbrella.
@@ -952,7 +951,7 @@ Extraordinary Tier, Weapon 2 \[Reputation\] at Superhuman Tier, and so on. This 
 
 | ## Rumor Planting Table                                                                                                                                                                                                                                                          ||
 | Shifts Obtained | Result                                                                                                                                                                                                                                                       |
-| 0-2             | The rumor earns passing mention (a fragile aspect).                                                                                                                                                                                                          |
+| 0-2             | The rumor earns passing mention (granting you a boost).                                                                                                                                                                                                          |
 | 3-5             | Other people are passing around the rumor, maybe even back to the original character (a sticky aspect).                                                                                                                                                      |
 | 6-7             | The rumor has spread far enough that someone (presumably the target) will do something in response to it.                                                                                                                                                    |
 | 8+              | The rumor has spawned a number of alternate or embellished versions as well, all with the same thread running through them. Additional shifts may be used to speed up the rate at which the rumor spreads or help conceal who started it in the first place. |
@@ -1778,7 +1777,7 @@ The character has an important or special piece of mundane (or mostly mundane) e
 > Probably the best option is to make your gadget either a Strange skill or an Equipment Gift, and devote an aspect to it, either a personal aspect or with the Aspect improvement. That way you can define it mechanically and concretely, if you go in for that sort of thing, plus you get added utility (and Fate Points) from it as an aspect.
 
 ## Impact
-Choose one of your skills (whether Common, Unique or Strange). When you use that skill and succed with style, you can declare a fragile aspect on yourself, your opponent, or the scene (as appropriate) as a free action. EXAMPLES: Fisticuffs Impact, Resolve Impact, Investigation Impact.
+Choose one of your skills (whether Common, Unique or Strange). When you use that skill and succed with style, you gain a boost. This is in addition to any boost you might normally get based on the action you are taking. EXAMPLES: Fisticuffs Impact, Resolve Impact, Investigation Impact.
 
 ## Skilled
 Receive another 5 skill points.
@@ -1787,7 +1786,7 @@ Receive another 5 skill points.
 Choose three skills (whether Common, Unique or Strange) that share a thematic connection, such as Athletics, Brawn, and Alertness (physical fitness) or Academics, Art, and Science (education). Each of these skills receives one (and only one) of the following benefits. This Gift can be purchased multiple times, but no skill can ever receive more than one benefit.
 
 * A +1 bonus in narrow circumstances, such as +1 Athletics when jumping, +1 Firearms with Electrophorous Firing Pieces, or +1 Fisticuffs when outnumbered.
-* A +2 bonus when using that skill to maneuver or Block.
+* A +2 bonus when using that skill to create an advantage.
 * Use the skill in place of another skill in narrow circumstances, such as using Brawn instead of Athletics when chasing someone, using Firearms instead of Athletics to defend against ranged attacks, or using Occultism instead of Presence to orate.
 * Ignore circumstantial or environmental penalties equal to or less than the skill's rating.
 
