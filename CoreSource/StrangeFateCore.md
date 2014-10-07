@@ -4,7 +4,7 @@
 Gifts bend the rules a little where your character is concerned. You might have a Gift that gives you a special piece of equipment or that makes one of your aspects more powerful or that provides a little boost to some of your skills in the right circumstances. They're sort of a halfway point between aspects and skills, in that they have concrete mechanical effects, but it's up to you to define the specifics within the guidelines provided. Every character has at least one Gift. We'll discuss them in the Gifts section on page 244.
 
 ## If You've Played Fate Before: Skills, Refresh and Gifts
-If you're familiar with the Fate system, here's a quick rundown on how we handle skills and Refresh. This is a point-based iteration of Fate. You'll use skill points to buy skills, and Refresh points to buy everything else. Characters start with 30 skill points, but a character's Refresh (the number of Fate Points he has at the start of each session) depends on the time period when the story takes place. Refresh starts at 6 in the Early Century, 8 in the Middle Century, or 10 in the Late Century. Refresh is also a currency in character creation -- you'll spend it on Power Tiers (which we'll discuss later) and Gifts, which take the place of stunts found in many other FATE games.
+If you're familiar with the Fate system, here's a quick rundown on how we handle skills and Refresh. This is a point-based iteration of Fate. You'll use skill points to buy skills, and Refresh points to buy everything else. Characters start with 30 skill points, but a character's Refresh (the number of Fate Points he has at the start of each session) depends on the time period when the story takes place. Refresh starts at 6 in the Early Century, 8 in the Middle Century, or 10 in the Late Century. Refresh is also a currency in character creation -- you'll spend it on Power Tiers (which we'll discuss later) and Gifts, which take the place of stunts found in many other Fate games.
 
 # Character Creation
 Creating a character for Strange Fate occurs in six basic steps:
@@ -211,12 +211,12 @@ As an Artificial, damage you sustain cannot be healed by conventional medicine. 
 **Compel to:** Lose touch with the common man, rise to a challenge, grow overconfident in your abilities.
 
 ## Skills
-Skills are made up of bundles of skill applications we call trappings. A trapping is something you can do with a skill, such as using your Marksmanship skill to shoot someone or leaping from rooftop to rooftop with Athletics. In most FATE games, these trappings are often more implicit than explicit, but in The Kerberos Club they're treated more concretely and take on additional importance. Here, skills are defined by their trappings, for reasons that will soon become apparent. For a full list of trappings, see the Trappings section.
+Skills are made up of bundles of skill applications we call trappings. A trapping is something you can do with a skill, such as using your Marksmanship skill to shoot someone or leaping from rooftop to rooftop with Athletics. In most Fate games, these trappings are often more implicit than explicit, but in The Kerberos Club they're treated more concretely and take on additional importance. Here, skills are defined by their trappings, for reasons that will soon become apparent. For a full list of trappings, see the Trappings section.
 
 ## Common, Unique, and Strange
 Skills come in three basic varieties: Common skills, Unique skills, and Strange skills.
 
-The Common skill list is a group of pre-defined skills, such as Seamanship, Academics, or Occultism. Their trappings are set and immutable: All instances of Academics, from character to character, have the same trappings and work the same way, as do all instances of Empathy, Stealth, Contacting, and every other Common skill. In other words, this is more or less the skill list you might find in any game powered by FATE.
+The Common skill list is a group of pre-defined skills, such as Seamanship, Academics, or Occultism. Their trappings are set and immutable: All instances of Academics, from character to character, have the same trappings and work the same way, as do all instances of Empathy, Stealth, Contacting, and every other Common skill. In other words, this is more or less the skill list you might find in any game powered by Fate.
 
 At 28 Common skills, this list might seem a bit overwrought at first, but many are highly contextual. Odds are your character can safely dismiss several of them out of hand right away. Never set foot on a boat? Don't even look at Seamanship. Is your game set in the Early Century? You can safely disregard Drive and Pilot -- tractor carriages and Aero Ships don't even exist yet. Street urchin? Resources and Science probably aren't your thing. And so on.
 
@@ -241,7 +241,7 @@ Above the Extraordinary Tier -- through the Superhuman, Ascendant, and Godlike T
 
 The Tier of a skill, if not Mundane, is indicated by an initial in parentheses after the skill's name -- (E) for Extraordinary, (S) for Superhuman, and so on. If a skill -- any skill, including Common skills -- is in the Superhuman, Ascendant, or Godlike Tiers, it's automatically a Strange skill.
 
-When you face off against an opponent, first compare the Tiers of the skills you're using. If they're the same, such as Mundane vs. Mundane or Superhuman vs. Superhuman, each of you rolls 4dF and adds your skill rating, as normal. If they're different, whoever has the higher-Tier skill replaces one Fudge die with a six-sided die for each Tier of difference. For example, if you're attacking with Good (+3) Fisticuffs (E) and your opponent is defending with Fair (+2) Athletics, you'll roll 3dF+1d6+3 and your opponent will roll 4dF+2. If your Fisticuffs were Superhuman instead of Extraordinary, you'd roll 2dF+2d6+3, while your opponent would still roll 4dF+2. If both of you were using skills of the same Tier, regardless of what that Tier were, you'd both roll 4dF and add your skill rating.
+When you face off against an opponent, first compare the Tiers of the skills you're using. If they're the same, such as Mundane vs. Mundane or Superhuman vs. Superhuman, each of you rolls 4dF and adds your skill rating, as normal. If they're different, whoever has the higher-Tier skill replaces one Fate die with a six-sided die for each Tier of difference. For example, if you're attacking with Good (+3) Fisticuffs (E) and your opponent is defending with Fair (+2) Athletics, you'll roll 3dF+1d6+3 and your opponent will roll 4dF+2. If your Fisticuffs were Superhuman instead of Extraordinary, you'd roll 2dF+2d6+3, while your opponent would still roll 4dF+2. If both of you were using skills of the same Tier, regardless of what that Tier were, you'd both roll 4dF and add your skill rating.
 
 > The Power Tiers 
 > Godlike  (G) 
@@ -257,9 +257,9 @@ If a skill's Power Tier measures its effectiveness relative to that of the commo
 
 Each Power Tier reduces your Refresh. See Power Tier and Refresh, page 206.
 
-> But I Don't Like Fudge Dice!
-> Some versions of FATE eschew Fudge dice in favor of d6-d6 (a positive d6 roll minus a negative d6 roll). If you prefer that, instead of replacing a Fudge die with a d6 for a Power Tier, roll an extra d6. For example, an Extraordinary Tier skill vs. a Mundane Tier skill would mean rolling 2d6-d6 instead of 3dF+1d6.
-> Be warned, though: Despite the fact that 3dF+1d6 and 2d6-1d6 have the same average (3.5), their high and low ranges vary significantly. The worst you can roll on 3dF+1d6 is -2 and the best is +9, while the worst you can roll with 2d6-d6 is -4 and the best is +11. This discrepancy only becomes more pronounced as the difference between Power Tiers increases. You should be aware of the tendency of the dice to become increasingly dominant if you're rolling regular dice rather than Fudge dice.
+> But I Don't Like Fate Dice!
+> Some versions of Fate eschew Fate dice in favor of d6-d6 (a positive d6 roll minus a negative d6 roll). If you prefer that, instead of replacing a Fate die with a d6 for a Power Tier, roll an extra d6. For example, an Extraordinary Tier skill vs. a Mundane Tier skill would mean rolling 2d6-d6 instead of 3dF+1d6.
+> Be warned, though: Despite the fact that 3dF+1d6 and 2d6-1d6 have the same average (3.5), their high and low ranges vary significantly. The worst you can roll on 3dF+1d6 is -2 and the best is +9, while the worst you can roll with 2d6-d6 is -4 and the best is +11. This discrepancy only becomes more pronounced as the difference between Power Tiers increases. You should be aware of the tendency of the dice to become increasingly dominant if you're rolling regular dice rather than Fate dice.
 > Another option is to use d6-d6 and just add +3 for each Tier of difference. This lacks a bit of the random factor and puts even more emphasis on Power Tiers if that's what you prefer.
 
 ## Invulnerability and Weakness
@@ -590,9 +590,9 @@ Shifts can also be spent to climb faster at a rate of 1 shift per step on the Ti
 ### CONVERSATION   
 The Conversation trapping covers friendly social interaction, especially if that interaction involves making a good impression on someone else. It's also the "default" social trapping, for those times when whatever the player's trying to do doesn't fall neatly into any other trapping. The primary function of Conversation is to make a good first impression on someone else, improve their attitude toward you, or gain a temporary social advantage over them with an aspect maneuver.
 
-By default, an NPC's initial reaction toward a character will be mildly negative, neutral, or mildly positive. Stronger attitudes, such as love, hate, friendliness, respect, and so on, generally result from deeper, pre-existing knowledge of the character, and are unlikely to change dramatically in a first meeting. If the GM's uncertain about which of these applies, roll a Fudge die: - for mildly negative, 0 for neutral, and + for mildly positive.
+By default, an NPC's initial reaction toward a character will be mildly negative, neutral, or mildly positive. Stronger attitudes, such as love, hate, friendliness, respect, and so on, generally result from deeper, pre-existing knowledge of the character, and are unlikely to change dramatically in a first meeting. If the GM's uncertain about which of these applies, roll a Fate die: - for mildly negative, 0 for neutral, and + for mildly positive.
 
-If the player doesn't want to accept this reaction roll, she can attempt to turn on the charm and improve upon it. Make an opposed skill roll; if the rating of the NPC's relevant skill is unknown, it defaults to Mediocre. A successful roll in either the character's favor or the NPC's favor adjusts the NPC's attitude; a successful roll with spin adjusts it even further, as shown below.
+If the player doesn't want to accept this reaction roll, she can attempt to turn on the charm and improve upon it. Make an opposed skill roll; if the rating of the NPC's relevant skill is unknown, it defaults to Mediocre. A successful roll in either the character's favor or the NPC's favor adjusts the NPC's attitude; successful with style adjusts it even further, as shown below.
 
 Hostile: The NPC actively wants to harm the character, physically, socially, or otherwise.
 
@@ -620,7 +620,7 @@ Compare this trapping with both Conversation and Guile. If the skill is about be
 **Theme:** Force of personality, diplomacy, articulate speech.
 
 |                  | Character's Favor  ||        NPC's Favor        ||
-| Initial Attitude | Success  |   Spin   |     Success      |   Spin  |
+| Initial Attitude | Success  |   Style   |     Success      |   Style  |
 | ---------------- | -------- | -------- | ---------------- | ------- |
 | Hostile          | Negative | Neutral  | --               | Aspect  |
 | Negative         | Neutral  | Positive | Hostile          | Aspect  |
@@ -978,7 +978,7 @@ Characters have a default amount of weight they can lift or carry. Find the Powe
 This may seem like an awfully numbers-heavy approach for a game that generally shies away from such things, but when it comes to character strength, people generally like to have benchmarks. Plus, the weight a character can lift is a pretty accessible way to get a feel for how strong they are. At a +0 difficulty, a character can lift a medium-sized adult in the Mundane Tier, a large Siberian tiger in the Extraordinary Tier, a killer whale in the Superhuman Tier, a brachiosaurus -- one of Her Majesty's, perhaps --  in the Ascendant Tier, and a paddle-wheel steamship
 in the Godlike Tier. (Obviously, things get a little ridiculous for Physical Force in the Godlike Tier, but that's why it's called Godlike.)
 
-To determine how far a character can throw something (or someone), roll your Physical Force against the rating (in the left-most column of the table below) of the object's weight. Successfully throwing the object 1 zone requires spending 1 shift plus a number of shifts equal to the object's Weight Factor (WF). The WF of a row remains the same regardless of the Tier. In other words, a 400-pound object has a WF of 3, as does a 1,500-pound object and a 32-ton object. (The difference is that throwing an object of a lower Tier lets the player swap out Fudge dice for d6s.) Every additional zone costs as many shifts as the previous one did, plus one, so it gets progressively harder to throw an object multiple zones. In no case can a character lift, carry, or throw an object whose weight is above the maximum for the skill's Tier.
+To determine how far a character can throw something (or someone), roll your Physical Force against the rating (in the left-most column of the table below) of the object's weight. Successfully throwing the object 1 zone requires spending 1 shift plus a number of shifts equal to the object's Weight Factor (WF). The WF of a row remains the same regardless of the Tier. In other words, a 400-pound object has a WF of 3, as does a 1,500-pound object and a 32-ton object. (The difference is that throwing an object of a lower Tier lets the player swap out Fate dice for d6s.) Every additional zone costs as many shifts as the previous one did, plus one, so it gets progressively harder to throw an object multiple zones. In no case can a character lift, carry, or throw an object whose weight is above the maximum for the skill's Tier.
 
 If throwing an object whose weight is in the Mundane column using a skill whose Power Tier is higher than Mundane, treat it as if you were rolling against an opponent's Mundane skill.
 
@@ -991,12 +991,12 @@ If the character's Physical Force were instead Good (+3) (E), carrying 400 pound
 Extraordinary Tier (or above): Physical attacks, armed or unarmed, that would benefit from this skill's Physical Force trapping have Weapon 1 per Tier over Mundane --  Weapon 1 \[Health\] at Extraordinary Tier, Weapon 2 \[Health\] at Superhuman Tier, and so on. This skill and the skill used to attack must be thematically related to receive this benefit. For example, a character with Brawn (S) would deal +2 Health stress when using Fisticuffs, but not Firearms or Strange skills such as Telekinesis or Earth Control.
 
 ### REPAIR
-A skill with the Repair trapping can be used to fix mechanical devices, given the right tools and enough time. For devices with stress tracks, the difficulty is equal to the quality of the device. It takes a Few Hours to remove stress or a Trifling consequence, a Day for a Middling consequence, and a Week for a Grievous consequence. For devices that don't have stress tracks or consequences, the difficulty is based on the monetary value of the device (see the Wealth trapping) or its quality (see the Craft trapping), whichever is higher.
+A skill with the Repair trapping can be used to fix mechanical devices, given the right tools and enough time. For devices with stress tracks, the difficulty is equal to the quality of the device. It takes a Few Hours to remove stress or a Mild consequence, a Day for a Moderate consequence, and a Week for a Severe consequence. For devices that don't have stress tracks or consequences, the difficulty is based on the monetary value of the device (see the Wealth trapping) or its quality (see the Craft trapping), whichever is higher.
 
 Failure on a repair roll can be made up in a few ways, retroactively. First, each additional step longer  on the Time Table (page 318) gives a retroactive +1 to the player's roll, up to a maximum of +4 for four steps on the table. Second, the device can be repaired within the usual timeframe, but the quality drops by one for every point shy of the target. Both methods may be combined; for example, a character can get a retroactive +3 to take two steps longer and drop the quality of the item by one. Degradation in item quality may mean that some of its special abilities are lost, if it has any. Subsequent efforts may be made to restore the item to its original quality, but those face a difficulty equal to the target quality, +1 for every two steps the current quality is below the target. Missing a restoration roll can only be made up by investing time, and the starting length of time on such efforts is usually a week.
 
-If the GM agrees to it, a player may make a partial repair when falling just short of the target. In these cases, the consequence on the device being repaired is downgraded in severity, rather than being entirely removed. If the character misses the roll by one, he may opt to downgrade the consequence, regardless of its severity, to Trifling.
-If the character misses the roll by two, he may opt to downgrade the consequence one step, taking Grievous to Middling and Middling to Trifling. If the consequence is Trifling in any of these cases, it is removed, but the device's appropriate stress track is filled.
+If the GM agrees to it, a player may make a partial repair when falling just short of the target. In these cases, the consequence on the device being repaired is downgraded in severity, rather than being entirely removed. If the character misses the roll by one, he may opt to downgrade the consequence, regardless of its severity, to Mild.
+If the character misses the roll by two, he may opt to downgrade the consequence one step, taking Severe to Moderate and Moderate to Mild. If the consequence is Mild in any of these cases, it is removed, but the device's appropriate stress track is filled.
 
 Given a sufficient Workspace, the skill can be used to Repair devices whose Power Tier is at or below its own. For example, a Superhuman Tier skill with this trapping could fix Extraordinary or Superhuman Tier devices.
 
@@ -1054,12 +1054,12 @@ A skill with this trapping can also act as a limiting skill for long-term activi
 
 **Extraordinary Tier:** The skill provides Armor 1 for the chosen scope.
 
-**Superhuman Tier:** The skill provides Armor 2 for the chosen scope. Additionally, the character can withstand an additional Trifling consequence of the chosen scope.
+**Superhuman Tier:** The skill provides Armor 2 for the chosen scope. Additionally, the character can withstand an additional Mild consequence of the chosen scope.
 
 **Ascendant Tier:** The skill provides Armor 3 for the
-chosen scope. Moreover, the character can withstand an additional Trifling consequence of the chosen scope, and once per scene the character may clear a Trifling Consequence of the chosen scope as a free action.
+chosen scope. Moreover, the character can withstand an additional Mild consequence of the chosen scope, and once per scene the character may clear a Mild Consequence of the chosen scope as a free action.
 
-**Godlike Tier:** As Ascendant Tier, but the skill provides Armor 4 for the chosen scope. The character also receives one additional Middling Consequence slot of the chosen scope.
+**Godlike Tier:** As Ascendant Tier, but the skill provides Armor 4 for the chosen scope. The character also receives one additional Moderate Consequence slot of the chosen scope.
 
 ### STRIKE
 The skill can be used to cause physical harm to others in a manner consistent with its theme. For example, as part of the Common skill Arms, the Strike trapping is used to attack with weaponry, while as part of the Fists Common skill it's about slugging your foe with your bare mitts. Strike can only be used against individuals in the same zone as the character. For ranged offense, see Shoot.
@@ -1082,19 +1082,19 @@ In a conflict, this trapping can be used to both attack and defend, although the
 ### TREATMENT \[SCOPE\]+
 Treatment is the trapping of making things better -- the "meat" version of the Repair trapping. Depending on the scope chosen, the skill can be used in a medical capacity to treat injury, disease, poison, and so forth (the Physical scope), or it can be used to alleviate fear and restore confidence (the Mental scope), or repair a damaged reputation (the Social scope). In game terms, this means clearing stress boxes and consequences.
 
-The difficulty involved depends on the severity of the situation. To clear stress boxes, roll this skill against a difficulty equal to the highest stress box filled; for every 2 shifts obtained, clear one stress box. Removing a Trifling consequence has a difficulty of Fair (+2). Reducing (not removing) a Middling consequence to Trifling, assuming the "patient" has a Trifling consequence slot to spare, has a difficulty of Great (+4). If this roll obtains spin, the consequence is removed altogether. Grievous consequences cannot be removed with Treatment -- only time.
+The difficulty involved depends on the severity of the situation. To clear stress boxes, roll this skill against a difficulty equal to the highest stress box filled; for every 2 shifts obtained, clear one stress box. Removing a Mild consequence has a difficulty of Fair (+2). Reducing (not removing) a Moderate consequence to Mild, assuming the "patient" has a Mild consequence slot to spare, has a difficulty of Great (+4). If this roll succeeds with style, the consequence is removed altogether. Severe consequences cannot be removed with Treatment -- only time.
 
-This trapping should generally represent a "downtime" use of the skill, as opposed to something the character can do in the heat of the moment or the press of battle. Clearing stress and Trifling consequences is the exception to this -- think of it as the first aid equivalent of the chosen scope -- but this cannot be attempted more than once per character per scene.
+This trapping should generally represent a "downtime" use of the skill, as opposed to something the character can do in the heat of the moment or the press of battle. Clearing stress and Mild consequences is the exception to this -- think of it as the first aid equivalent of the chosen scope -- but this cannot be attempted more than once per character per scene.
 
-Treating a Middling consequence may, depending on circumstance, require a Workspace, or at least the proper environment. For example, removing a Middling Physical consequence may necessitate medical equipment, while a couple hours down at the local may be just the thing to clear a Middling Mental consequence.
+Treating a Moderate consequence may, depending on circumstance, require a Workspace, or at least the proper environment. For example, removing a Moderate Physical consequence may necessitate medical equipment, while a couple hours down at the local may be just the thing to clear a Moderate Mental consequence.
 
 **Theme:** Varies widely, depending on the chosen scope, but in general the theme should be able to comfortably cover reducing trauma or injury in yourself or others.
 
-**Extraordinary Tier:** Ordinarily, attempting to reduce or remove a Middling consequence is something that has to take place outside of a conflict situation. For you, this is not the case. If the consequence is within the scope of this trapping, you may make a roll against an Extraordinary Tier target of Great (+4). On a success, the consequence is reduced to Trifling (assuming the character has an open Trifling consequence slot of the appropriate scope). If the roll obtains spin, the consequence is removed altogether.
+**Extraordinary Tier:** Ordinarily, attempting to reduce or remove a Moderate consequence is something that has to take place outside of a conflict situation. For you, this is not the case. If the consequence is within the scope of this trapping, you may make a roll against an Extraordinary Tier target of Great (+4). On a success, the consequence is reduced to Mild (assuming the character has an open Mild consequence slot of the appropriate scope). If the roll succeeds with style, the consequence is removed altogether.
 
-**Superhuman Tier:** As Extraordinary Tier, plus you can also attempt to clear a Grievous consequence within the trapping's scope. If it's a Physical consequence, the patient's body must be intact. Make a skill roll against a Superhuman Tier target of Fantastic (+6). On a success, the consequence is reduced one degree of severity, and with spin it's reduced by two degrees of severity. Regardless, the patient must immediately change one of his Personal aspects to reflect the indelible mark the trauma has left on him.
+**Superhuman Tier:** As Extraordinary Tier, plus you can also attempt to clear a Severe consequence within the trapping's scope. If it's a Physical consequence, the patient's body must be intact. Make a skill roll against a Superhuman Tier target of Fantastic (+6). On a success, the consequence is reduced one degree of severity, and on a success with style it's reduced by two degrees of severity. Regardless, the patient must immediately change one of his Personal aspects to reflect the indelible mark the trauma has left on him.
 
-**Ascendant Tier:** As Superhuman Tier, except you can also reattach limbs, restore organs, and the like if the trapping's scope is Physical. Make a skill roll against an Ascendant Tier target of Legendary (+8). On a success, the consequence is reduced one degree of severity, and with spin it's reduced by two degrees of severity. Again, the patient must still immediately change one of his Personal aspects as a reminder of the experience.
+**Ascendant Tier:** As Superhuman Tier, except you can also reattach limbs, restore organs, and the like if the trapping's scope is Physical. Make a skill roll against an Ascendant Tier target of Legendary (+8). On a success, the consequence is reduced one degree of severity, and on success with style it's reduced by two degrees of severity. Again, the patient must still immediately change one of his Personal aspects as a reminder of the experience.
 
 **Godlike Tier:** As Ascendant Tier, plus you can attempt to revive the dead -- that is, a character whose Taken Out condition was death. Make a skill roll against a Godlike Tier target of Divine (+10). On a success, the patient is immediately brought back to life, but must rewrite a Conviction or Complication aspect to reflect the profundity of the experience. On a failure, the patient is still dead, and another revivification cannot be attempted until sufficient time has passed. (The default is A Day, plus one step on the Time Table for every point by which the roll failed.) This process does not remove any of the patient's consequences or stress he may have had when he died. Normally, this requires that the patient's complete corpse be present (though not necessarily intact). If the GM deems the circumstances appropriate -- for example, if the character has a Godling aspect of "Goddess of Life" --  an attempt may be made without the body at a -4 penalty to the roll. Treat a success as described above, but the character's body arrives (somehow) naked as the day he was born.
 
@@ -1729,13 +1729,13 @@ Every character starts with one Gift for free.
 | ---------------- | ---------------------------------------------------------------------------- |
 | Companion        | A "helper" NPC loyal to the character.                                       |
 | Equipment        | Important or special gear of some kind.                                      |
-| Impact           | Declare an aspect with the skill for free on a roll that succeeds with spin. |
+| Impact           | Declare an aspect with the skill for free on a roll that succeeds with style. |
 | Signature Aspect | One aspect can be invoked once per scene for free.                           |
 | Skilled          | +5 skill points.                                                             |
 | Theme            | A variety of circumstantial benefits spread among three connected skills.    |
 
 ## Companion
-The character has a sidekick, valet, personal secretary, manservant, clockwork butler, fetch, or some other "helper" character. The Companion defaults to Average (+1) quality, with one Average (+1) skill, 2 stress boxes in each stress track, and one Trifling consequence. A Companion requires the expenditure of a Fate Point to act alone. Otherwise, he or she attaches to the character as a Minion would, and provides the character with a +1 bonus to any skills the two share in common. In addition, each Companion automatically comes with three improvements, chosen from the list below. Unless otherwise indicated, an improvement can be taken more than once for the same Companion.
+The character has a sidekick, valet, personal secretary, manservant, clockwork butler, fetch, or some other "helper" character. The Companion defaults to Average (+1) quality, with one Average (+1) skill, 2 stress boxes in each stress track, and one Mild consequence. A Companion requires the expenditure of a Fate Point to act alone. Otherwise, he or she attaches to the character as a Minion would, and provides the character with a +1 bonus to any skills the two share in common. In addition, each Companion automatically comes with three improvements, chosen from the list below. Unless otherwise indicated, an improvement can be taken more than once for the same Companion.
 
 Every time this Gift is taken, it can be used to either create a new Companion or provide another three improvements to any existing Companions.
 
@@ -1768,7 +1768,7 @@ The character has an important or special piece of mundane (or mostly mundane) e
 * Protective: The equipment grants Armor 1 against one type of stress (Health, Composure, or Reputation) in a manner appropriate to the Equipment. This improvement can be taken up to three times on a single piece of equipment, providing a maximum of Armor 3. Only the highest Armor value from any one piece of equipment can apply at a time.
 * Rugged: The equipment adds one stress box to one of the owner's stress tracks (Health, Composure, or Reputation). This improvement can only be taken a maximum of three times on a single piece of equipment. In order to take this improvement, the equipment must be a suit of armor or some similarly protective item. Only the highest Rugged value from any one piece of equipment can apply at a time to any one stress track.
 * Numerous: Each time this improvement is taken, it gives the character a duplicate of a previously defined piece of equipment.
-* Essential: The equipment lets the owner take an additional Trifling consequence, usually Physical. This improvement can't be taken more than twice on the same piece of equipment. In order to take this improvement, the equipment must be a suit of armor or some similarly protective item. Having multiple pieces of equipment with this improvement does not increase this benefit.
+* Essential: The equipment lets the owner take an additional Mild consequence, usually Physical. This improvement can't be taken more than twice on the same piece of equipment. In order to take this improvement, the equipment must be a suit of armor or some similarly protective item. Having multiple pieces of equipment with this improvement does not increase this benefit.
 
 > ## Skill, Equipment, or Aspect?
 > As you can see, there are basically three ways to represent a gadget using these rules: as a Strange skill, as an Equipment Gift, or simply as an aspect. So which is the right one to use? Any of them, really -- it just depends on what you want to do.
@@ -1778,7 +1778,7 @@ The character has an important or special piece of mundane (or mostly mundane) e
 > Probably the best option is to make your gadget either a Strange skill or an Equipment Gift, and devote an aspect to it, either a personal aspect or with the Aspect improvement. That way you can define it mechanically and concretely, if you go in for that sort of thing, plus you get added utility (and Fate Points) from it as an aspect.
 
 ## Impact
-Choose one of your skills (whether Common, Unique or Strange). When you use that skill and obtain spin, you can declare a fragile aspect on yourself, your opponent, or the scene (as appropriate) as a free action. EXAMPLES: Fisticuffs Impact, Resolve Impact, Investigation Impact.
+Choose one of your skills (whether Common, Unique or Strange). When you use that skill and succed with style, you can declare a fragile aspect on yourself, your opponent, or the scene (as appropriate) as a free action. EXAMPLES: Fisticuffs Impact, Resolve Impact, Investigation Impact.
 
 ## Skilled
 Receive another 5 skill points.
@@ -1792,9 +1792,9 @@ Choose three skills (whether Common, Unique or Strange) that share a thematic co
 * Ignore circumstantial or environmental penalties equal to or less than the skill's rating.
 
 > ## Difficulty and Power Tiers
-> When attempting a simple action with a difficulty of a Power Tier higher than the skill you're using, replace one Fudge die with a d6 per degree of difference. But instead of adding the result of the d6 to the roll, subtract it. Compare your effort to the target number, as usual, to determine your effect.
+> When attempting a simple action with a difficulty of a Power Tier higher than the skill you're using, replace one Fate die with a d6 per degree of difference. But instead of adding the result of the d6 to the roll, subtract it. Compare your effort to the target number, as usual, to determine your effect.
 
-> For example, let's say you're attempting to pick Great (+4) (E) lock using your Good (+3) Burglary. Because the Power Tier of the task is one higher than your skill's Power Tier, you swap out a Fudge die for a d6 and roll 3dF-1d6. Your result: --+-2, or -3. Adding that to your skill rating of Good (+3) yields a total effort of Mediocre (+0) -- not nearly good enough to defeat that lock. Spending 2 Fate Points to invoke two aspects, though, will give you the +4 you need to succeed.
+> For example, let's say you're attempting to pick Great (+4) (E) lock using your Good (+3) Burglary. Because the Power Tier of the task is one higher than your skill's Power Tier, you swap out a Fate die for a d6 and roll 3dF-1d6. Your result: --+-2, or -3. Adding that to your skill rating of Good (+3) yields a total effort of Mediocre (+0) -- not nearly good enough to defeat that lock. Spending 2 Fate Points to invoke two aspects, though, will give you the +4 you need to succeed.
 
 ### Weapons and Armor
 Weapons bought as Equipment Gifts can inflict additional stress by taking the Deadly improvement. Multiple instances of Deadly on the same piece of Equipment are cumulative, up to a maximum of +3 stress. However, this can't increase the stress dealt by a weapon to more than twice the number of shifts obtained. For example, if you're attacking with a sword with Deadly x2 and you win the exchange by 1 shift, you'll deal 2 stress, not 3.
